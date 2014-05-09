@@ -1,6 +1,8 @@
 # grunt-init-csharpsolution
 
-> Create a C# solution with [grunt-init][], including NUnit unit tests.
+> Quickly scaffold a C# 4.5 solution with [grunt-init][], including NUnit unit tests. Adapt to suit your own needs.
+
+![screenshot](https://raw.githubusercontent.com/nosami/nosami.github.io/master/grunt-init-csharpsolution.gif)
 
 [grunt-init]: http://gruntjs.com/project-scaffolding
 
@@ -15,6 +17,7 @@ git clone https://github.com/nosami/grunt-init-csharpsolution.git ~/.grunt-init/
 
 _(Windows users, see [the documentation][grunt-init] for the correct destination directory path)_
 
+This 
 ## Usage
 
 At the command-line, cd into an empty directory, run this command and follow the prompts.
