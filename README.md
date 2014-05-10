@@ -17,7 +17,6 @@ git clone https://github.com/nosami/grunt-init-csharpsolution.git ~/.grunt-init/
 
 _(Windows users, see [the documentation][grunt-init] for the correct destination directory path)_
 
-This 
 ## Usage
 
 At the command-line, cd into an empty directory, run this command and follow the prompts.
